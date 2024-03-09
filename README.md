@@ -20,8 +20,8 @@ Este projeto consiste em uma análise exploratória histórica dos valores de cr
 7. **Storytelling:** A apresentação final foca em contar uma história coerente com os dados, destacando insights e conclusões relevantes.
 
 ## Como Reproduzir a Análise
-1. Clone este repositório: `git clone https://github.com/seu-usuario/nome-do-repositorio.git`
-2. Abra o notebook no ambiente de desenvolvimento escolhido (Colab).
+1. Clone este repositório: `git clone https://github.com/samgomes0305/Quantum-Group-of-Funds.git`
+2. Abra o notebook chamado "default_file.ipynb" no ambiente de desenvolvimento escolhido (Colab).
 3. Siga as instruções no notebook, executando cada célula na ordem adequada.
 
 ## Gráficos Gerados
@@ -30,6 +30,9 @@ Este projeto consiste em uma análise exploratória histórica dos valores de cr
 3. Gráfico de [inserir nome do gráfico 3].
 4. Gráfico de [inserir nome do gráfico 4].
 5. Gráfico de [inserir nome do gráfico 5].
+
+## Gráfico Burndown
+https://quantum-group-of-funds.streamlit.app/
 
 ## Conclusões e Insights
 Este projeto proporcionou uma compreensão mais profunda das tendências nas criptomoedas, auxiliando a corretora Quantum Group of Funds a tomar decisões informadas no mercado financeiro. A colaboração eficiente entre os membros da equipe e a metodologia adotada foram fundamentais para o sucesso deste projeto.
