@@ -16,7 +16,7 @@ Este projeto consiste em uma análise exploratória histórica dos valores de cr
 3. **Importação para o Banco de Dados:** Os dados processados foram transferidos para um banco de dados Mysql.
 4. **Conexão com Ferramenta de Visualização:** Foi estabelecida a conexão entre o banco de dados e a ferramenta escolhida para visualização.
 5. **Seleção de Criptomoedas:** Escolhemos 10 criptomoedas do conjunto disponibilizado para uma análise mais aprofundada.
-6. **Geração de Gráficos:** Criamos cinco gráficos representativos dos resultados obtidos durante a análise.
+6. **Geração de Gráficos:** Criamos seis gráficos representativos dos resultados obtidos durante a análise.
 7. **Storytelling:** A apresentação final foca em contar uma história coerente com os dados, destacando insights e conclusões relevantes.
 
 ## Como Reproduzir a Análise
@@ -25,11 +25,18 @@ Este projeto consiste em uma análise exploratória histórica dos valores de cr
 3. Siga as instruções no notebook, executando cada célula na ordem adequada.
 
 ## Gráficos Gerados
-1. Gráfico de [inserir nome do gráfico 1].
-2. Gráfico de [inserir nome do gráfico 2].
-3. Gráfico de [inserir nome do gráfico 3].
-4. Gráfico de [inserir nome do gráfico 4].
-5. Gráfico de [inserir nome do gráfico 5].
+![image](https://github.com/HERNANDI001/Quantum-Group-of-Funds/assets/145159351/b1304951-24a9-43b0-8869-4e6d0bfccb4d)
+
+![image](https://github.com/HERNANDI001/Quantum-Group-of-Funds/assets/145159351/76452959-dfb7-4586-bb6b-1ed90a83056a)
+
+![image](https://github.com/HERNANDI001/Quantum-Group-of-Funds/assets/145159351/2897e4bc-1674-4155-b1bc-7d962cb96175)
+
+![image](https://github.com/HERNANDI001/Quantum-Group-of-Funds/assets/145159351/e866855c-e225-47aa-84db-30f314cc33e0)
+
+![image](https://github.com/HERNANDI001/Quantum-Group-of-Funds/assets/145159351/6c636402-eceb-45b5-985b-e84e447ab23d)
+
+![image](https://github.com/HERNANDI001/Quantum-Group-of-Funds/assets/145159351/8c580092-6148-4bcc-b28c-5f6732309bf7)
+
 
 ## Gráfico Burndown
 https://quantum-group-of-funds.streamlit.app/
